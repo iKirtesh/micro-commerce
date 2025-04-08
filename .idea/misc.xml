@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/services/address" />
+    <file type="web" url="file://$PROJECT_DIR$/services/admin-server" />
+    <file type="web" url="file://$PROJECT_DIR$/services/auth-service" />
+    <file type="web" url="file://$PROJECT_DIR$/services/config-server" />
+    <file type="web" url="file://$PROJECT_DIR$/services/customer" />
+    <file type="web" url="file://$PROJECT_DIR$/services/discovery" />
+    <file type="web" url="file://$PROJECT_DIR$/services/gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/services/notification" />
+    <file type="web" url="file://$PROJECT_DIR$/services/order" />
+    <file type="web" url="file://$PROJECT_DIR$/services/payment" />
+    <file type="web" url="file://$PROJECT_DIR$/services/product" />
+    <file type="web" url="file://$PROJECT_DIR$/services/user" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

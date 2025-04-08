@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="address" target="21" />
+      <module name="address.main" target="21" />
+      <module name="address.test" target="21" />
+      <module name="auth-service" target="21" />
+      <module name="auth-service.main" target="21" />
+      <module name="auth-service.test" target="21" />
+      <module name="customer.main" target="21" />
+      <module name="customer.test" target="21" />
+      <module name="user-service" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
